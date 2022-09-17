@@ -20,6 +20,7 @@
 
 ## Run App
 
+- npm run start
 - App uses parcel module bundler - Can run locally
 
 #### Install Dependencies
