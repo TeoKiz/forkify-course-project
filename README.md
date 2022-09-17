@@ -19,7 +19,7 @@
 - Pagination view for all available pages of a recipe
 
 ## Run App
-
+- npm install
 - npm run start
 - App uses parcel module bundler - Can run locally
 
